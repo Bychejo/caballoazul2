@@ -53,6 +53,10 @@ http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/61841.m3u
 http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39598.m3u
 #EXTINF:-1 tvg-id="La Resistencia" tvg-name="M+ LA RESISTENCIA h264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_La_Resistencia.png" group-title="MOVISTAR ESPAÑA",M+ LA RESISTENCIA h264
 http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/62893.m3u
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="CANAL COCINA HD 1080P" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51USEW2haIL.png" group-title="MOVISTAR ESPAÑA",CANAL COCINA HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39683.m3u
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="CANAL COCINA h264" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51USEW2haIL.png" group-title="MOVISTAR ESPAÑA",CANAL COCINA h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39684.m3u
 #EXTINF:-1 tvg-id="fox.es" tvg-name="FOX HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="MOVISTAR ESPAÑA",FOX HD 1080P
 http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39604.m3u
 #EXTINF:-1 tvg-id="fox.es" tvg-name="FOX HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="MOVISTAR ESPAÑA",FOX HD 720P
