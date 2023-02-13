@@ -1,0 +1,291 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://i.picasion.com/pic90/e9bd55e228a3a0a9ca122d7e4543b07a.gif",Castilla la Mancha TV
+http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
+#EXTINF:-1 tvg-id="M+ ACCION HD" tvg-name="MOVISTAR ACCION HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/263px-Movistar_Acci%C3%B3n.svg.png" group-title="MOVISTAR ESPAÑA",MOVISTAR ACCION HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39576.m3u
+#EXTINF:-1 tvg-id="M+ ACCION HD" tvg-name="MOVISTAR ACCION HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/263px-Movistar_Acci%C3%B3n.svg.png" group-title="MOVISTAR ESPAÑA",MOVISTAR ACCION HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/51755.m3u
+#EXTINF:-1 tvg-id="M+ ACCION HD" tvg-name="M+ ACCION h264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/263px-Movistar_Acci%C3%B3n.svg.png" group-title="MOVISTAR ESPAÑA",M+ ACCION h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39578.m3u
+#EXTINF:-1 tvg-id="M+ SERIES HD" tvg-name="MOVISTAR SERIES HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="MOVISTAR ESPAÑA",MOVISTAR SERIES HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39582.m3u
+#EXTINF:-1 tvg-id="M+ SERIES HD" tvg-name="MOVISTAR SERIES HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="MOVISTAR ESPAÑA",MOVISTAR SERIES HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/51757.m3u
+#EXTINF:-1 tvg-id="M+ SERIES HD" tvg-name="M+ SERIES h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="MOVISTAR ESPAÑA",M+ SERIES h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39584.m3u
+#EXTINF:-1 tvg-id="M+ SERIES 2 HD" tvg-name="MOVISTAR SERIES 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="MOVISTAR ESPAÑA",MOVISTAR SERIES 2 HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/57940.m3u
+#EXTINF:-1 tvg-id="M+ SERIES 2 HD" tvg-name="MOVISTAR SERIES 2 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="MOVISTAR ESPAÑA",MOVISTAR SERIES 2 HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/57941.m3u
+#EXTINF:-1 tvg-id="M+ SERIES 2 HD" tvg-name="M+ SERIES 2 h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="MOVISTAR ESPAÑA",M+ SERIES 2 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/57942.m3u
+#EXTINF:-1 tvg-id="M+ESTRENOS HD" tvg-name="M+ ESTRENOS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="MOVISTAR ESPAÑA",M+ ESTRENOS HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39588.m3u
+#EXTINF:-1 tvg-id="M+ESTRENOS HD" tvg-name="M+ ESTRENOS HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="MOVISTAR ESPAÑA",M+ ESTRENOS HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/51759.m3u
+#EXTINF:-1 tvg-id="M+ESTRENOS HD" tvg-name="M+ ESTRENOS h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="MOVISTAR ESPAÑA",M+ ESTRENOS h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39590.m3u
+#EXTINF:-1 tvg-id="M+ ESTRENOS 2 HD" tvg-name="M+ ESTRENOS 2 HD 1080P" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="MOVISTAR ESPAÑA",M+ ESTRENOS 2 HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/57937.m3u
+#EXTINF:-1 tvg-id="M+ ESTRENOS 2 HD" tvg-name="M+ ESTRENOS 2 HD 720P" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="MOVISTAR ESPAÑA",M+ ESTRENOS 2 HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/57938.m3u
+#EXTINF:-1 tvg-id="M+ ESTRENOS 2 HD" tvg-name="M+ ESTRENOS 2 h264" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="MOVISTAR ESPAÑA",M+ ESTRENOS 2 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/57939.m3u
+#EXTINF:-1 tvg-id="M+COMEDIA HD" tvg-name="MOVISTAR COMEDIA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="MOVISTAR ESPAÑA",MOVISTAR COMEDIA HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39591.m3u
+#EXTINF:-1 tvg-id="M+COMEDIA HD" tvg-name="MOVISTAR COMEDIA HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="MOVISTAR ESPAÑA",MOVISTAR COMEDIA HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/51760.m3u
+#EXTINF:-1 tvg-id="M+COMEDIA HD" tvg-name="M+ COMEDIA h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="MOVISTAR ESPAÑA",M+ COMEDIA h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39593.m3u
+#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-name="MOVISTAR DRAMA 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="MOVISTAR ESPAÑA",MOVISTAR DRAMA 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39594.m3u
+#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-name="MOVISTAR DRAMA 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="MOVISTAR ESPAÑA",MOVISTAR DRAMA 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/51761.m3u
+#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-name="M+ DRAMA h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="MOVISTAR ESPAÑA",M+ DRAMA h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39596.m3u
+#EXTINF:-1 tvg-id="M+ CLÁSICOS HD" tvg-name="MOVISTAR CLASICOS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="MOVISTAR ESPAÑA",MOVISTAR CLASICOS HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/61839.m3u
+#EXTINF:-1 tvg-id="M+ CLÁSICOS HD" tvg-name="MOVISTAR CLASICOS HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="MOVISTAR ESPAÑA",MOVISTAR CLASICOS HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/61840.m3u
+#EXTINF:-1 tvg-id="M+ CLÁSICOS HD" tvg-name="M+ CLASICOS h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="MOVISTAR ESPAÑA",M+ CLASICOS h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/61841.m3u
+#EXTINF:-1 tvg-id="M+Cine Español" tvg-name="MOVISTAR CINE Ñ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="MOVISTAR ESPAÑA",MOVISTAR CINE Ñ
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39598.m3u
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="M+ LA RESISTENCIA h264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_La_Resistencia.png" group-title="MOVISTAR ESPAÑA",M+ LA RESISTENCIA h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/62893.m3u
+#EXTINF:-1 tvg-id="fox.es" tvg-name="FOX HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="MOVISTAR ESPAÑA",FOX HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39604.m3u
+#EXTINF:-1 tvg-id="fox.es" tvg-name="FOX HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="MOVISTAR ESPAÑA",FOX HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/51763.m3u
+#EXTINF:-1 tvg-id="fox.es" tvg-name="FOX h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="MOVISTAR ESPAÑA",FOX h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39606.m3u
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/axn-640x523.png" group-title="MOVISTAR ESPAÑA",AXN HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39610.m3u
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN HD 720P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/axn-640x523.png" group-title="MOVISTAR ESPAÑA",AXN HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/51765.m3u
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN h264" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/axn-640x523.png" group-title="MOVISTAR ESPAÑA",AXN h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39612.m3u
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN WHITE HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="MOVISTAR ESPAÑA",AXN WHITE HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39613.m3u
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN WHITE HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="MOVISTAR ESPAÑA",AXN WHITE HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/51766.m3u
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN WHITE h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="MOVISTAR ESPAÑA",AXN WHITE h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39615.m3u
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="TNT HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="MOVISTAR ESPAÑA",TNT HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39616.m3u
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="TNT HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="MOVISTAR ESPAÑA",TNT HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/51767.m3u
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="TNT h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="MOVISTAR ESPAÑA",TNT h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39618.m3u
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="COMEDY CENTRAL HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="MOVISTAR ESPAÑA",COMEDY CENTRAL HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39619.m3u
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="COMEDY CENTRAL h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="MOVISTAR ESPAÑA",COMEDY CENTRAL h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39621.m3u
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="MOVISTAR ESPAÑA",CALLE 13 HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39622.m3u
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="MOVISTAR ESPAÑA",CALLE 13 HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/51769.m3u
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13 h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="MOVISTAR ESPAÑA",CALLE 13 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39624.m3u
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2880px-Cosmo_TV_logo.svg.png" group-title="MOVISTAR ESPAÑA",COSMO HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39625.m3u
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2880px-Cosmo_TV_logo.svg.png" group-title="MOVISTAR ESPAÑA",COSMO HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/51770.m3u
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO h264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2880px-Cosmo_TV_logo.svg.png" group-title="MOVISTAR ESPAÑA",COSMO h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39627.m3u
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="MOVISTAR ESPAÑA",AMC HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39628.m3u
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="MOVISTAR ESPAÑA",AMC HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/51771.m3u
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="MOVISTAR ESPAÑA",AMC h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39630.m3u
+#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="AMC CRIME" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CYM.png" group-title="MOVISTAR ESPAÑA",AMC CRIME
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/88568.m3u
+#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="AMC BREAK HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BIOGRA.png" group-title="MOVISTAR ESPAÑA",AMC BREAK HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/88569.m3u
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="SYFY HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="MOVISTAR ESPAÑA",SYFY HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39631.m3u
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="SYFY HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="MOVISTAR ESPAÑA",SYFY HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/51773.m3u
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="SYFY h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="MOVISTAR ESPAÑA",SYFY h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39633.m3u
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="TCM HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="MOVISTAR ESPAÑA",TCM HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39634.m3u
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="TCM h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="MOVISTAR ESPAÑA",TCM h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39636.m3u
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="MOVISTAR ESPAÑA",PARAMOUNT CHANNEL
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39637.m3u
+#EXTINF:-1 tvg-id="BOM" tvg-name="BOM CINE h264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/2560px-Logo-bom.svg.png" group-title="MOVISTAR ESPAÑA",BOM CINE h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39638.m3u
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="HOLLYWOOD HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="MOVISTAR ESPAÑA",HOLLYWOOD HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39643.m3u
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="HOLLYWOOD HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="MOVISTAR ESPAÑA",HOLLYWOOD HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/51775.m3u
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="HOLLYWOOD h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="MOVISTAR ESPAÑA",HOLLYWOOD h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39645.m3u
+#EXTINF:-1 tvg-id="dark.es" tvg-name="DARK RED HD 1080P" tvg-logo="https://vfes-images.ott.kaltura.com/16dca77dcb2d432ba7bfb4c6eda3d23f_288X162.png" group-title="MOVISTAR ESPAÑA",DARK RED HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39647.m3u
+#EXTINF:-1 tvg-id="M+ GOLF HD" tvg-name="MOVISTAR GOLF HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1264px-Movistar_Golf.svg.png" group-title="MOVISTAR ESPAÑA",MOVISTAR GOLF HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39711.m3u
+#EXTINF:-1 tvg-id="M+ GOLF HD" tvg-name="M+ GOLF h264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1264px-Movistar_Golf.svg.png" group-title="MOVISTAR ESPAÑA",M+ GOLF h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39713.m3u
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT 1 HD 1080P" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" group-title="MOVISTAR ESPAÑA",EUROSPORT 1 HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39714.m3u
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT 1 h264" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" group-title="MOVISTAR ESPAÑA",EUROSPORT 1 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39715.m3u
+#EXTINF:-1 tvg-id="EUROSPORT2HD" tvg-name="EUROSPORT 2 HD 1080P" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" group-title="MOVISTAR ESPAÑA",EUROSPORT 2 HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39716.m3u
+#EXTINF:-1 tvg-id="EUROSPORT2HD" tvg-name="EUROSPORT 2 h264" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" group-title="MOVISTAR ESPAÑA",EUROSPORT 2 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39717.m3u
+#EXTINF:-1 tvg-id="M+DEPORTESHD" tvg-name="M. DEPORTES HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MOVISTAR ESPAÑA",M. DEPORTES HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39724.m3u
+#EXTINF:-1 tvg-id="M+DEPORTESHD" tvg-name="M. DEPORTES h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MOVISTAR ESPAÑA",M. DEPORTES h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39726.m3u
+#EXTINF:-1 tvg-id="M+DEPORTES2" tvg-name="M. DEPORTES 2 h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MOVISTAR ESPAÑA",M. DEPORTES 2 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39730.m3u
+#EXTINF:-1 tvg-id="M+DEPORTES3" tvg-name="M. DEPORTES 3 h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MOVISTAR ESPAÑA",M. DEPORTES 3 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39731.m3u
+#EXTINF:-1 tvg-id="M+DEPORTES4" tvg-name="M. DEPORTES 4 h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MOVISTAR ESPAÑA",M. DEPORTES 4 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39732.m3u
+#EXTINF:-1 tvg-id="M+DEPORTES5" tvg-name="M. DEPORTES 5 h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MOVISTAR ESPAÑA",M. DEPORTES 5 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39733.m3u
+#EXTINF:-1 tvg-id="M+DEPORTES6" tvg-name="M. DEPORTES 6 h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MOVISTAR ESPAÑA",M. DEPORTES 6 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39734.m3u
+#EXTINF:-1 tvg-id="TELEDEPORTE FHD" tvg-name="TELEDEPORTE HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="MOVISTAR ESPAÑA",TELEDEPORTE HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39718.m3u
+#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-name="TELEDEPORTE h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="MOVISTAR ESPAÑA",TELEDEPORTE h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39719.m3u
+#EXTINF:-1 tvg-id="CanalSurHD" tvg-name="CANAL SUR FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CSURHD.png" group-title="AUTONOMICOS",CANAL SUR FHD
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39775.m3u
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M. LALIGA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="FUTBOL SATELITE",M. LALIGA HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69861.m3u
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M. LALIGA HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="FUTBOL SATELITE",M. LALIGA HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69862.m3u
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M. LALIGA h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="FUTBOL SATELITE",M. LALIGA h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69863.m3u
+#EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-name="M. LALIGA 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="FUTBOL SATELITE",M. LALIGA 2 HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69867.m3u
+#EXTINF:-1 tvg-id="M+ LaLiga 3 HD" tvg-name="M. LALIGA 3 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="FUTBOL SATELITE",M. LALIGA 3 HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69868.m3u
+#EXTINF:-1 tvg-id="Liga SmartBank" tvg-name="LALIGA SMARTBANK HD 1080P" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/bd/9b/liga-smartbank-segunda-division_xhswjieo133q103y74ktzlvz9.jpg" group-title="FUTBOL SATELITE",LALIGA SMARTBANK HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/93647.m3u
+#EXTINF:-1 tvg-id="Liga SmartBank" tvg-name="LALIGA SMARTBANK HD 720P" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/bd/9b/liga-smartbank-segunda-division_xhswjieo133q103y74ktzlvz9.jpg" group-title="FUTBOL SATELITE",LALIGA SMARTBANK HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/93653.m3u
+#EXTINF:-1 tvg-id="Liga SmartBank" tvg-name="LIGA SMARTBANK h264" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/bd/9b/liga-smartbank-segunda-division_xhswjieo133q103y74ktzlvz9.jpg" group-title="FUTBOL SATELITE",LIGA SMARTBANK h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/93648.m3u
+#EXTINF:-1 tvg-id="Liga SmartBank 2" tvg-name="LALIGA SMARTBANK M2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS2.png" group-title="FUTBOL SATELITE",LALIGA SMARTBANK M2 HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/93654.m3u
+#EXTINF:-1 tvg-id="Liga SmartBank 2" tvg-name="LALIGA SMARTBANK M2 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS2.png" group-title="FUTBOL SATELITE",LALIGA SMARTBANK M2 HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/93655.m3u
+#EXTINF:-1 tvg-id="Liga SmartBank 2" tvg-name="LALIGA SMARTBANK M2 h264" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS2.png" group-title="FUTBOL SATELITE",LALIGA SMARTBANK M2 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/93656.m3u
+#EXTINF:-1 tvg-id="Liga SmartBank 3" tvg-name="LALIGA SMARTBANK M3 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="FUTBOL SATELITE",LALIGA SMARTBANK M3 HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/95253.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="M. LIGA CAMPEONES HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69876.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="M. LIGA CAMPEONES HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES HD 720p
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69887.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="M. LIGA CAMPEONES h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69888.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEON2" tvg-name="M. LIGA CAMPEONES 2 HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 2 HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69877.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEON2" tvg-name="M. LIGA CAMPEONES 2 HD 720P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 2 HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/95031.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEON3" tvg-name="M. LIGA CAMPEONES 3 h264" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 3 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69878.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEON4" tvg-name="M. LIGA CAMPEONES 4 h264" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc4.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 4 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69879.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEON5" tvg-name="M. LIGA CAMPEONES 5 h264" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc5.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 5 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69880.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEON6" tvg-name="M. LIGA CAMPEONES 6 h264" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc6.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 6 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69881.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEON7" tvg-name="M. LIGA CAMPEONES 7 h264" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc7.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 7 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69882.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M. LIGA CAMPEONES 8 h264" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc8.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 8 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69883.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M. LIGA CAMPEONES 9 h264" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc9.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 9 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/95015.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M. LIGA CAMPEONES 10 h264" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc10.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 10 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/95016.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M. LIGA CAMPEONES 11 h264" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc11.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 11 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/95017.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M. LIGA CAMPEONES 12 h264" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc12.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 12 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/95018.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M. LIGA CAMPEONES 13 h264" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc13.png" group-title="FUTBOL SATELITE",M. LIGA CAMPEONES 13 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/95019.m3u
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR LA LIGA FHD (HEVC)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="FUTBOL TOP",MOVISTAR LA LIGA FHD (HEVC)
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69724.m3u
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="MOVISTAR LA LIGA 2K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGUH.png" group-title="FUTBOL TOP",MOVISTAR LA LIGA 2K
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69726.m3u
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="MOVISTAR LA LIGA 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGUH.png" group-title="FUTBOL TOP",MOVISTAR LA LIGA 4K
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69727.m3u
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="M. LA LIGA MULTIAUDIO HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGUH.png" group-title="FUTBOL TOP",M. LA LIGA MULTIAUDIO HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/77895.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="MOVISTAR LIGA CAMPEONES 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAUHD.png" group-title="FUTBOL TOP",MOVISTAR LIGA CAMPEONES 4K
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/95180.m3u
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR LIGA DE CAMPEONES FHD (HEVC)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="FUTBOL TOP",MOVISTAR LIGA DE CAMPEONES FHD (HEVC)
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69725.m3u
+#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-name="LaLiga TV Bar HD (1080P)" tvg-logo="https://futbar.com/logos/laliga_white_logo.png" group-title="FUTBOL FIBRA",LaLiga TV Bar HD (1080P)
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69891.m3u
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M. LALIGA FIBRA 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="FUTBOL FIBRA",M. LALIGA FIBRA 1
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69894.m3u
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M. LALIGA FIBRA 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="FUTBOL FIBRA",M. LALIGA FIBRA 2
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69895.m3u
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M. LALIGA FIBRA 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="FUTBOL FIBRA",M. LALIGA FIBRA 3
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69898.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="M. LIGA DE CAMPEONES FIBRA 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="FUTBOL FIBRA",M. LIGA DE CAMPEONES FIBRA 1
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69896.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="M. LIGA DE CAMPEONES FIBRA 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="FUTBOL FIBRA",M. LIGA DE CAMPEONES FIBRA 2
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69899.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="M. LIGA DE CAMPEONES FIBRA 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="FUTBOL FIBRA",M. LIGA DE CAMPEONES FIBRA 3
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/69897.m3u
+#EXTINF:-1 tvg-id="Liga SmartBank" tvg-name="LALIGA SMARTBANK (FIBRA)" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/bd/9b/liga-smartbank-segunda-division_xhswjieo133q103y74ktzlvz9.jpg" group-title="FUTBOL FIBRA",LALIGA SMARTBANK (FIBRA)
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/93657.m3u
+#EXTINF:-1 tvg-id="Liga SmartBank 2" tvg-name="LALIGA SMARTBANK M2 (FIBRA)" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS2.png" group-title="FUTBOL FIBRA",LALIGA SMARTBANK M2 (FIBRA)
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/93658.m3u
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LALIGA 1 HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/245px-DAZN_LaLiga_logo.svg.png" group-title="DAZN",DAZN LALIGA 1 HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/92501.m3u
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LALIGA 1 (FIBRA 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/245px-DAZN_LaLiga_logo.svg.png" group-title="DAZN",DAZN LALIGA 1 (FIBRA 1)
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/99225.m3u
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LALIGA 1 (FIBRA2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/245px-DAZN_LaLiga_logo.svg.png" group-title="DAZN",DAZN LALIGA 1 (FIBRA2)
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/99226.m3u
+#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-name="DAZN LALIGA 1 HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/245px-DAZN_LaLiga_logo.svg.png" group-title="DAZN",DAZN LALIGA 1 HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/93659.m3u
+#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-name="DAZN LALIGA 1 h264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/245px-DAZN_LaLiga_logo.svg.png" group-title="DAZN",DAZN LALIGA 1 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/93660.m3u
+#EXTINF:-1 tvg-id="DAZN LaLiga2 HD" tvg-name="DAZN LALIGA 2 HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/245px-DAZN_LaLiga_logo.svg.png" group-title="DAZN",DAZN LALIGA 2 HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/92502.m3u
+#EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-name="DAZN LALIGA 2 h264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/245px-DAZN_LaLiga_logo.svg.png" group-title="DAZN",DAZN LALIGA 2 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/93662.m3u
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="DAZN",DAZN F1 4K
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/51731.m3u
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="DAZN",DAZN F1 HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/51732.m3u
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="DAZN",DAZN F1 HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/57320.m3u
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 h264" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="DAZN",DAZN F1 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/57321.m3u
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD 1080P" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="DAZN",DAZN 1 HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/43471.m3u
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD 720P" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="DAZN",DAZN 1 HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/66175.m3u
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 h264" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="DAZN",DAZN 1 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/66174.m3u
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD 720P" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="DAZN",DAZN 2 HD 720P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/66177.m3u
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 h264" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="DAZN",DAZN 2 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/66176.m3u
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3 h264" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="DAZN",DAZN 3 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/66178.m3u
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4 h264" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="DAZN",DAZN 4 h264
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/66180.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 Liga Finetwork f (SOLO EVENTOS)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png" group-title="DAZN",DAZN 1 Liga Finetwork f (SOLO EVENTOS)
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/99222.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2  Liga Finetwork f (SOLO EVENTOS)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png" group-title="DAZN",DAZN 2  Liga Finetwork f (SOLO EVENTOS)
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/99220.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 Liga Finetwork f (SOLO EVENTOS)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png" group-title="DAZN",DAZN 3 Liga Finetwork f (SOLO EVENTOS)
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/99223.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 Liga Finetwork f (SOLO EVENTOS)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png" group-title="DAZN",DAZN 4 Liga Finetwork f (SOLO EVENTOS)
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/99224.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 Liga Finetwork f (SOLO EVENTOS)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png" group-title="DAZN",DAZN 5 Liga Finetwork f (SOLO EVENTOS)
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/99221.m3u
